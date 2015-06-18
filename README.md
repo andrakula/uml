@@ -1,2 +1,2 @@
 # uml
-Examples with different UML-Diagramms with Enterprise Architect
+Examples of different UML-Diagramms with Enterprise Architect
